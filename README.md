@@ -1,4 +1,4 @@
 vertretungsplan-config-files
 ============================
 
-Configuration files for the Vertretungsplan backend
+Konfigurationsdateien für das Vertretungsplan-Backend. Bei Schulen, wo für den Zugriff ein Passwort benötigt wird, wurde dieses entfernt.
