@@ -1,0 +1,27 @@
+{
+	"name": "Karolinen-Gymnasium",
+	"city": "Frankenthal",
+	"api": "untis-info",
+	"geo": [
+		49.5325215,
+		8.357846
+	],
+	"data": {
+		"encoding": "ISO-8859-1",
+		"baseurl": "http://kgvertretungsplan.de",
+		"classes_separated": false,
+		"w_after_number": true,
+		"columns": [
+			"lesson",
+			"type",
+			"teacher",
+			"previousSubject",
+			"subject",
+			"room",
+			"previousTeacher",
+			"class",
+			"ignore",
+			"desc"
+		]
+	}
+}

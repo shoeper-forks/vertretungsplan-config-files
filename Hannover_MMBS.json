@@ -1,0 +1,28 @@
+{
+	"name": "Multi-Media Berufsbildende Schulen",
+	"city": "Hannover",
+	"api": "untis-info",
+	"geo": [
+		52.320501,
+		9.815651
+	],
+	"data": {
+		"encoding": "ISO-8859-1",
+		"baseurl": "http://stundenplan.mmbbs.de/plan1011/ver_kla",
+		"single_classes": true,
+		"w_after_number": true,
+		"columns": [
+			"class",
+			"type",
+			"ignore",
+			"lesson",
+			"subject",
+			"previousSubject",
+			"teacher",
+			"room",
+			"previousTeacher",
+			"previousRoom",
+			"desc"
+		]
+	}
+}

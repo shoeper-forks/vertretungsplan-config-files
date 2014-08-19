@@ -1,0 +1,68 @@
+{
+	"name": "Hegau-Gymnasium",
+	"city": "Singen",
+	"api": "untis-monitor",
+	"geo": [
+		47.76482,
+		8.8383
+	],
+	"data": {
+		"encoding": "ISO-8859-1",
+		"urls": [
+			{
+				"url": "http://intranet.sihg.edu-singen.de/untis_public/f1/subst_001.htm",
+				"following": false
+			},
+			{
+				"url": "http://intranet.sihg.edu-singen.de/untis_public/f2/subst_001.htm",
+				"following": false
+			}
+		],
+		"stand_links": true,
+		"columns": [
+			"class",
+			"lesson",
+			"previousSubject",
+			"subject",
+			"room",
+			"ignore",
+			"desc",
+			"type-entfall"
+		],
+		"classes": [
+			"05A",
+			"05B",
+			"05C",
+			"05D",
+			"05E",
+			"06A",
+			"06B",
+			"06C",
+			"06D",
+			"06E",
+			"07A",
+			"07B",
+			"07C",
+			"07D",
+			"07E",
+			"08A",
+			"08B",
+			"08C",
+			"08D",
+			"08E",
+			"09A",
+			"09B",
+			"09C",
+			"09D",
+			"09E",
+			"10A",
+			"10B",
+			"10C",
+			"10D",
+			"10E",
+			"J1",
+			"J2"
+		]
+	},
+	"additional_info": []
+}
