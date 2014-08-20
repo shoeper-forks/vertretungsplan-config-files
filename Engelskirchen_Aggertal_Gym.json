@@ -1,0 +1,56 @@
+{
+  "name": "Aggertal-Gymnasium",
+  "data": {
+    "classes": [
+      "5a",
+      "5b",
+      "5c",
+      "5d",
+      "6a",
+      "6b",
+      "6c",
+      "6d",
+      "7a",
+      "7b",
+      "7c",
+      "7d",
+      "8a",
+      "8b",
+      "8c",
+      "8d",
+      "9a",
+      "9b",
+      "9c",
+      "9d",
+      "EF",
+      "Q1",
+      "Q2"
+    ],
+    "class_in_extra_line": true,
+    "stand_links": true,
+    "urls": [
+      {
+        "following": true,
+        "url": "http:\/\/www.aggertal-gymnasium.de\/untis\/monitor\/f1\/subst_001.htm"
+      },
+      {
+        "following": true,
+        "url": "http:\/\/www.aggertal-gymnasium.de\/untis\/monitor\/f2\/subst_001.htm"
+      }
+    ],
+    "columns": [
+      "ignore",
+      "lesson",
+      "subject",
+      "teacher",
+      "room",
+      "ignore",
+      "type",
+      "desc"
+    ],
+    "encoding": "ISO-8859-1"
+  },
+  "geo": [50.985228,7.417145],
+  "api": "untis-monitor",
+  "city": "Engelskirchen"
+}
