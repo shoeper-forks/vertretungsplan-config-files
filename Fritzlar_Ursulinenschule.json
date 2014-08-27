@@ -1,0 +1,28 @@
+{
+	"name": "Ursulinenschule",
+	"city": "Fritzlar",
+	"api": "untis-info",
+	"geo": [
+		51.1298011,
+		9.2736837
+	],
+	"data": {
+		"encoding": "ISO-8859-1",
+		"baseurl": "http://ursfz.dyndns.org/eltern/Eltern2",
+		"login": {
+			"type": "basic"
+		},
+		"w_after_number": true,
+		"classes_separated": false,
+		"columns": [
+			"lesson",
+			"teacher",
+			"class",
+			"subject",
+			"room",
+			"previousTeacher",
+			"type",
+			"desc"
+		]
+	}
+}

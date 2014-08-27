@@ -1,0 +1,59 @@
+{
+	"name": "Konrad-Adenauer-Gymnasium",
+	"city": "Bonn",
+	"api": "untis-monitor",
+	"geo": [
+		50.671,
+		7.168976
+	],
+	"data": {
+		"encoding": "ISO-8859-1",
+		"urls": [
+			{
+				"url": "http://adenauer-bonn.de/vertretungsplan/subst_001.htm",
+				"following": true
+			}
+		],
+		"columns": [
+			"class",
+			"type",
+			"lesson",
+			"teacher",
+			"previousSubject",
+			"subject",
+			"room",
+			"desc"
+		],
+		"classes": [
+			"05A",
+			"05B",
+			"05C",
+			"05D",
+			"05E",
+			"06A",
+			"06B",
+			"06C",
+			"06D",
+			"06E",
+			"07A",
+			"07B",
+			"07C",
+			"07D",
+			"07E",
+			"08A",
+			"08B",
+			"08C",
+			"08D",
+			"08E",
+			"09A",
+			"09B",
+			"09C",
+			"09D",
+			"09E",
+			"EF",
+			"Q1",
+			"Q2"
+		]
+	},
+	"additional_info": []
+}

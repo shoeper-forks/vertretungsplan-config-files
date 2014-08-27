@@ -1,0 +1,70 @@
+{
+	"name": "Liebfrauenschule Mülhausen",
+	"city": "Grefrath",
+	"api": "untis-monitor",
+	"geo": [
+		51.344482,
+		6.364608
+	],
+	"data": {
+		"encoding": "ISO-8859-1",
+		"urls": [
+			{
+				"url": "http://lfsm.de/verwaltung/schueler/Vertretungsplan/subst_001.htm",
+				"following": true
+			}
+		],
+		"columns": [
+			"class",
+			"lesson",
+			"teacher",
+			"subject",
+			"room",
+			"previousTeacher",
+			"ignore",
+			"type",
+			"desc"
+		],
+		"classes": [
+			"05a",
+			"05b",
+			"05c",
+			"05d",
+			"05e",
+			"05f",
+			"05g",
+			"06a",
+			"06b",
+			"06c",
+			"06d",
+			"06e",
+			"06f",
+			"06g",
+			"07a",
+			"07b",
+			"07c",
+			"07d",
+			"07e",
+			"07f",
+			"07g",
+			"08a",
+			"08b",
+			"08c",
+			"08d",
+			"08e",
+			"08f",
+			"08g",
+			"09a",
+			"09b",
+			"09c",
+			"09d",
+			"09e",
+			"09f",
+			"09g",
+			"10",
+			"11",
+			"12"
+		]
+	},
+	"additional_info": []
+}

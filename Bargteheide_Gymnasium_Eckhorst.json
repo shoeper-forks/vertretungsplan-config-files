@@ -1,0 +1,65 @@
+{
+	"name": "Gymnasium Eckhorst",
+	"city": "Bargteheide",
+	"geo": [
+		53.72348,
+		10.25233
+	],
+	"api": "dsbmobile",
+	"additional_info": [
+		"winter-sh"
+	],
+	"data": {
+		"login": "180122",
+		"stand-links": false,
+		"encoding": "ISO-8859-1",
+		"classes_separated": false,
+		"columns": [
+			"class",
+			"lesson",
+			"teacher",
+			"subject",
+			"room",
+			"desc"
+		],
+		"sort": true,
+		"classes": [
+			"5a",
+			"5b",
+			"5c",
+			"5d",
+			"6a",
+			"6b",
+			"6c",
+			"6d",
+			"7a",
+			"7b",
+			"7c",
+			"7d",
+			"8a",
+			"8b",
+			"8c",
+			"8d",
+			"9a",
+			"9b",
+			"9c",
+			"9d",
+			"E1a",
+			"E1b",
+			"E1c",
+			"E1d",
+			"Q1a",
+			"Q1b",
+			"Q1c",
+			"Q1d",
+			"Q1e",
+			"Q1f",
+			"Q1g",
+			"Q1h",
+			"13a",
+			"13b",
+			"13c",
+			"13d"
+		]
+	}
+}
