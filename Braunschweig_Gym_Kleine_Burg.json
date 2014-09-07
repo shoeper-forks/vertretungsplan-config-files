@@ -1,0 +1,73 @@
+{
+	"name": "Gymnasium Kleine Burg",
+	"city": "Braunschweig",
+	"api": "untis-monitor",
+	"geo": [
+		52.26349,
+		10.5222
+	],
+	"website": "http://www.pweigang.de/",
+	"data": {
+		"encoding": "ISO-8859-1",
+		"urls": [
+			{
+				"url": "http://www.pweigang.de/Vertretungsplan/schueler/heute/subst_001.htm",
+				"following": true
+			},
+			{
+				"url": "http://www.pweigang.de/Vertretungsplan/schueler/morgen/subst_001.htm",
+				"following": true
+			}
+		],
+		"columns": [
+			"ignore",
+			"class",
+			"lesson",
+			"teacher",
+			"subject",
+			"room",
+			"desc",
+			"type-entfall",
+			"previousSubject",
+			"previousTeacher"
+		],
+		"classes": [
+			"5a",
+			"5b",
+			"5c",
+			"5d",
+			"6a",
+			"6b",
+			"6c",
+			"7sf",
+			"7sl",
+			"7s",
+			"8sf",
+			"8sl",
+			"8s",
+			"9lf",
+			"9s1",
+			"9s2",
+			"10sf",
+			"10sl",
+			"10s",
+			"11",
+			"12",
+			"10.1",
+			"10.2",
+			"10.3",
+			"10.4",
+			"11K",
+			"11G1",
+			"11G2",
+			"11N1",
+			"11N2",
+			"12K",
+			"12G1",
+			"12G2",
+			"12N1",
+			"12N2"
+		]
+	},
+	"additional_info": []
+}
