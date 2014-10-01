@@ -1,0 +1,82 @@
+{
+	"name": "Kaiser-Wilhelm- und Ratsgymnasium",
+	"city": "Hannover",
+	"api": "untis-monitor",
+	"geo": [
+		52.377902,
+		9.762617
+	],
+	"website": "http://www.kwrg.de/index.php/homehome/vertretungsplan-hauptseite",
+	"data": {
+		"encoding": "ISO-8859-1",
+		"urls": [
+			{
+				"url": "http://nibis.ni.schule.de/~kwrg/infostundenplan/0/subst_001.htm",
+				"following": false
+			},
+			{
+				"url": "http://nibis.ni.schule.de/~kwrg/infostundenplan/1/subst_001.htm",
+				"following": false
+			},
+			{
+				"url": "http://nibis.ni.schule.de/~kwrg/infostundenplan/2/subst_001.htm",
+				"following": false
+			}
+		],
+		"columns": [
+			"class",
+			"lesson",
+			"teacher",
+			"subject",
+			"previousSubject",
+			"room",
+			"type",
+			"desc"
+		],
+		"classes_separated": false,
+		"classes": [
+			"5a",
+			"5b",
+			"5c",
+			"5d",
+			"6a",
+			"6b",
+			"6c",
+			"6d",
+			"7a",
+			"7b",
+			"7c",
+			"7d",
+			"8a",
+			"8b",
+			"8c",
+			"8d",
+			"9a",
+			"9b",
+			"9c",
+			"9d",
+			"10a",
+			"10b",
+			"10c",
+			"10d",
+			"10e",
+			"10f",
+			"10g",
+			"11a",
+			"11b",
+			"11c",
+			"11d",
+			"11e",
+			"11f",
+			"11g",
+			"12a",
+			"12b",
+			"12c",
+			"12d",
+			"12e",
+			"12f",
+			"12g"
+		]
+	},
+	"additional_info": []
+}
