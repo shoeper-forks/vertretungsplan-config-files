@@ -1,0 +1,27 @@
+{
+	"name": "Gymnasium Karlsbad",
+	"city": "Langensteinbach",
+	"api": "untis-info",
+	"geo": [
+		48.9134787,
+		8.4965127
+	],
+	"data": {
+		"encoding": "ISO-8859-1",
+		"baseurl": "https://www.gymnasium-karlsbad.ka.schule-bw.de/vertretungsplan_schueler",
+		"login": {
+			"type": "basic"
+		},
+		"columns": [
+			"class",
+			"ignore",
+			"lesson",
+			"subject",
+			"room",
+			"previousSubject",
+			"type",
+			"ignore",
+			"desc"
+		]
+	}
+}
