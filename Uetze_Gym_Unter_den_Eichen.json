@@ -1,0 +1,46 @@
+{
+	"name": "Gymnasium \"Unter den Eichen\"",
+	"city": "Uetze",
+	"geo": [
+		52.468998,
+		10.206535
+	],
+	"api": "dsbmobile",
+	"additional_info": [],
+	"data": {
+		"login": "162121",
+		"encoding": "ISO-8859-1",
+		"class_in_extra_line": true,
+		"columns": [
+			"lesson",
+			"previousSubject",
+			"previousTeacher",
+			"subject",
+			"room",
+			"teacher",
+			"desc-type"
+		],
+		"sort": true,
+		"classRegex": "([A-Z0-9]*) \\w+",
+		"classes": [
+			"5K",
+			"5F",
+			"5S",
+			"6L",
+			"6F1",
+			"6F2",
+			"7L",
+			"7F1",
+			"7F2",
+			"8F1",
+			"8F2",
+			"8K",
+			"9K",
+			"9F1",
+			"9F2",
+			"10L",
+			"10F",
+			"10K"
+		]
+	}
+}

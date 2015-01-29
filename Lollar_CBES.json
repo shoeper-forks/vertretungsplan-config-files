@@ -1,0 +1,29 @@
+{
+	"name": "Clemens-Brentano-Schule",
+	"city": "Lollar",
+	"api": "untis-info",
+	"geo": [
+		50.656854,
+		8.717964
+	],
+	"data": {
+		"encoding": "ISO-8859-1",
+		"baseurl": "http://www.cbes-lollar.de/images/cbes/vertretungsplan/schueler",
+		"login": {
+			"type": "basic"
+		},
+		"w_after_number": true,
+		"single_classes": false,
+		"classes_separated": false,
+		"columns": [
+			"class",
+			"lesson",
+			"type",
+			"teacher",
+			"subject",
+			"room",
+			"previousTeacher",
+			"desc"
+		]
+	}
+}
