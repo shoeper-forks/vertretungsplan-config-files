@@ -1,0 +1,60 @@
+{
+	"name": "Carl-Zeiss-Gymnasium",
+	"city": "Jena",
+	"api": "csv",
+	"website": "http://czg.noxxi.de",
+	"geo": [
+		50.95236,
+		11.609094
+	],
+	"data": {
+		"login": {
+			"type": "basic"
+		},
+		"url": "http://czg.noxxi.de/vp.pl?/csv",
+		"separator": "\\|",
+		"skipLines": "1",
+		"columns": [
+			"ignore",
+			"day",
+			"stand",
+			"class",
+			"lesson",
+			"subject",
+			"teacher",
+			"room",
+			"desc-type"
+		],
+		"classRegex": "[^/]*",
+		"classes": [
+			"05A",
+			"05B",
+			"05C",
+			"05D",
+			"06A",
+			"06B",
+			"06C",
+			"06D",
+			"07A",
+			"07B",
+			"07C",
+			"07D",
+			"08A",
+			"08B",
+			"08C",
+			"08D",
+			"09A",
+			"09B",
+			"09C",
+			"09D",
+			"10A",
+			"10B",
+			"10C",
+			"10D",
+			"11",
+			"12",
+			"AG"
+		]
+	},
+	"additional_info": []
+}

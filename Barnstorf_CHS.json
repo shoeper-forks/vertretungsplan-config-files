@@ -1,0 +1,53 @@
+{
+	"name": "Christian-Hülsmeyer-Schule",
+	"city": "Barnstorf",
+	"api": "svplan",
+	"website": "http://www.chs-b.de/index.php/vertretungsplan",
+	"geo": [
+		52.714,
+		8.49989
+	],
+	"data": {
+		"urls": [
+			{
+				"url": "http://www.chs-b.de/vplan/PH_heute.htm"
+			},
+			{
+				"url": "http://www.chs-b.de/vplan/PH_morgen.htm"
+			},
+			{
+				"url": "http://www.chs-b.de/vplan/PH_morgen2.htm"
+			}
+		],
+		"encoding": "ISO-8859-1",
+		"classes": [
+			"G5",
+			"G6",
+			"G7",
+			"G8",
+			"H10G",
+			"H10H",
+			"H5",
+			"H6",
+			"H7",
+			"H8",
+			"H9G",
+			"H9H",
+			"R10A",
+			"R10G",
+			"R10H",
+			"R5A",
+			"R5B",
+			"R6A",
+			"R6B",
+			"R7A",
+			"R7B",
+			"R8A",
+			"R8B",
+			"R9A",
+			"R9G",
+			"R9H"
+		]
+	},
+	"additional_info": []
+}

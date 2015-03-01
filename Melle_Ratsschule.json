@@ -1,0 +1,72 @@
+{
+	"name": "Ratsschule",
+	"city": "Melle",
+	"api": "svplan",
+	"website": "http://www.ratsschule-melle.org/joomla/index.php/vertretungsplan",
+	"geo": [
+		52.196882,
+		8.323678
+	],
+	"data": {
+		"urls": [
+			{
+				"url": "http://www.ratsschule.de/Vplan/PH_heute.htm"
+			},
+			{
+				"url": "http://www.ratsschule.de/Vplan/PH_morgen.htm"
+			}
+		],
+		"encoding": "ISO-8859-1",
+		"classes": [
+			"5a",
+			"5b",
+			"5c",
+			"5d",
+			"6a",
+			"6b",
+			"6c",
+			"6d",
+			"7a",
+			"7b",
+			"7c",
+			"7d",
+			"8a",
+			"8b",
+			"8c",
+			"8d",
+			"9a",
+			"9b",
+			"9c",
+			"9d",
+			"10a",
+			"10b",
+			"10c",
+			"10d",
+			"R5a",
+			"R5b",
+			"R5c",
+			"R5d",
+			"R6a",
+			"R6b",
+			"R6c",
+			"R6d",
+			"R7a",
+			"R7b",
+			"R7c",
+			"R7d",
+			"R8a",
+			"R8b",
+			"R8c",
+			"R8d",
+			"R9a",
+			"R9b",
+			"R9c",
+			"R9d",
+			"R10a",
+			"R10b",
+			"R10c",
+			"R10d"
+		]
+	},
+	"additional_info": []
+}
