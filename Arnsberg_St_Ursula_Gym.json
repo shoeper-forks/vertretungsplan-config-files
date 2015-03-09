@@ -1,69 +1,70 @@
 {
-  "name": "St. Ursula Gymnasium",
-  "city": "Arnsberg",
-  "api": "untis-monitor",
-  "geo": [
-    51.4480617,
-    7.9712633
-  ],
-  "data": {
-    "encoding": "ISO-8859-1",
-    "login": {
-      "url": "http://m.st-ursula.de/",
-      "data": {
-        "name": "INSERT USERNAME",
-        "pw": "INSERT PASSWORD",
-        "submit": ""
-      }
-    },
-    "urls": [
-      {
-        "url": "http://m.st-ursula.de/include_reschedule.php?plan=1",
-        "following": false
-      },
-      {
-        "url": "http://m.st-ursula.de/include_reschedule.php?plan=2",
-        "following": false
-      }
-    ],
-    "stand_links": false,
-    "columns": [
-      "class",
-      "lesson",
-      "subject",
-      "previousTeacher",
-      "type",
-      "teacher",
-      "room",
-      "ignore",
-      "desc"
-    ],
-    "class_in_extra_line": false,
-    "classes": [
-      "05a",
-      "05b",
-      "05c",
-      "05d",
-      "06a",
-      "06b",
-      "06c",
-      "06d",
-      "07a",
-      "07b",
-      "07c",
-      "07d",
-      "08a",
-      "08b",
-      "08c",
-      "08d",
-      "09a",
-      "09b",
-      "09c",
-      "09d",
-      "EF",
-      "Q1",
-      "Q2"
-    ]
-  },
-  "additional_info": []
+	"name": "St. Ursula Gymnasium",
+	"city": "Arnsberg",
+	"api": "untis-monitor",
+	"geo": [
+		51.4480617,
+		7.9712633
+	],
+	"website": "http://m.st-ursula.de/",
+	"data": {
+		"encoding": "ISO-8859-1",
+		"login": {
+			"url": "http://m.st-ursula.de/",
+			"data": {
+				"name": "_login",
+				"pw": "_password",
+				"submit": ""
+			}
+		},
+		"urls": [
+			{
+				"url": "http://m.st-ursula.de/include_reschedule.php?plan=1",
+				"following": false
+			},
+			{
+				"url": "http://m.st-ursula.de/include_reschedule.php?plan=2",
+				"following": false
+			}
+		],
+		"stand_links": false,
+		"columns": [
+			"class",
+			"lesson",
+			"subject",
+			"previousTeacher",
+			"type",
+			"teacher",
+			"room",
+			"ignore",
+			"desc"
+		],
+		"class_in_extra_line": false,
+		"classes": [
+			"05a",
+			"05b",
+			"05c",
+			"05d",
+			"06a",
+			"06b",
+			"06c",
+			"06d",
+			"07a",
+			"07b",
+			"07c",
+			"07d",
+			"08a",
+			"08b",
+			"08c",
+			"08d",
+			"09a",
+			"09b",
+			"09c",
+			"09d",
+			"EF",
+			"Q1",
+			"Q2"
+		]
+	},
+	"additional_info": []
 }
